@@ -21,7 +21,7 @@ def pascal_triangle(n):
         """fill last index with 1""" 
         new_row[len(new_row)-1] =1
 
-        """Inner iteration from 1 to i-1"""
+        """Inner iteration from 1 to i+1"""
         for j in range(1, i+1):
 
                 """Calcuate the sum of two numbers  in the previous row"""      
