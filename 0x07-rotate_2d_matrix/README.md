@@ -1,4 +1,4 @@
-This [def rotate_2d_matrixmatrix](https://github.com/kihuni/alx-interview/tree/main/0x07-rotate_2d_matrix) is a Python function  that takes a 2D matrix as input and modifies the matrix in-place by rotating it 90 degrees clockwise.
+[def rotate_2d_matrixmatrix](https://github.com/kihuni/alx-interview/tree/main/0x07-rotate_2d_matrix) is a Python function  that takes a 2D matrix as input and modifies the matrix in-place by rotating it 90 degrees clockwise.
 
 The function, First, gets the length of the matrix (the number of rows or columns) and assigns it to the variable n.
 
